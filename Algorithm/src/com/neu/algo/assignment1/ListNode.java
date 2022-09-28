@@ -1,7 +1,7 @@
 package com.neu.algo.assignment1;
 
 /*
-Implemented LinkedList node
+Implemented LinkedList
  */
 public class ListNode {
     int val;
